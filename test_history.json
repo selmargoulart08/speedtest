@@ -1,0 +1,107 @@
+[
+    {
+        "ping": 14.596,
+        "jitter": null,
+        "packet_loss": null,
+        "download": 630.6161605795045,
+        "upload": 475.46683131781174,
+        "date": "09/09/2025 04:17",
+        "server": {
+            "url": "http://node1.speedtest.netgti.com.br:8080/speedtest/upload.php",
+            "lat": "-29.9399",
+            "lon": "-50.9948",
+            "name": "Gravata\u00ed",
+            "country": "Brazil",
+            "cc": "BR",
+            "sponsor": "Netgti Internet e Telecomunica\u00e7\u00f5es Ltda",
+            "id": "67555",
+            "host": "node1.speedtest.netgti.com.br:8080",
+            "d": 6.454237138502704,
+            "latency": 14.596
+        }
+    },
+    {
+        "ping": 14.729,
+        "jitter": null,
+        "packet_loss": null,
+        "download": 629.569016496065,
+        "upload": 475.99708673350386,
+        "date": "09/09/2025 04:17",
+        "server": {
+            "url": "http://node1.speedtest.netgti.com.br:8080/speedtest/upload.php",
+            "lat": "-29.9399",
+            "lon": "-50.9948",
+            "name": "Gravata\u00ed",
+            "country": "Brazil",
+            "cc": "BR",
+            "sponsor": "Netgti Internet e Telecomunica\u00e7\u00f5es Ltda",
+            "id": "67555",
+            "host": "node1.speedtest.netgti.com.br:8080",
+            "d": 6.454237138502704,
+            "latency": 14.729
+        }
+    },
+    {
+        "ping": 11.689,
+        "jitter": null,
+        "packet_loss": null,
+        "download": 625.9773311134892,
+        "upload": 477.94286066636914,
+        "date": "09/09/2025 04:18",
+        "server": {
+            "url": "http://node1.speedtest.netgti.com.br:8080/speedtest/upload.php",
+            "lat": "-29.9399",
+            "lon": "-50.9948",
+            "name": "Gravata\u00ed",
+            "country": "Brazil",
+            "cc": "BR",
+            "sponsor": "Netgti Internet e Telecomunica\u00e7\u00f5es Ltda",
+            "id": "67555",
+            "host": "node1.speedtest.netgti.com.br:8080",
+            "d": 6.454237138502704,
+            "latency": 11.689
+        }
+    },
+    {
+        "ping": 9.32,
+        "jitter": null,
+        "packet_loss": null,
+        "download": 642.2792984801769,
+        "upload": 449.96060040746767,
+        "date": "09/09/2025 04:26",
+        "server": {
+            "url": "http://node1.speedtest.netgti.com.br:8080/speedtest/upload.php",
+            "lat": "-29.9399",
+            "lon": "-50.9948",
+            "name": "Gravata\u00ed",
+            "country": "Brazil",
+            "cc": "BR",
+            "sponsor": "Netgti Internet e Telecomunica\u00e7\u00f5es Ltda",
+            "id": "67555",
+            "host": "node1.speedtest.netgti.com.br:8080",
+            "d": 6.454237138502704,
+            "latency": 9.32
+        }
+    },
+    {
+        "ping": 21.02,
+        "jitter": null,
+        "packet_loss": null,
+        "download": 244.87688141985564,
+        "upload": 457.5831442330277,
+        "date": "09/09/2025 04:28",
+        "server": {
+            "url": "http://node1.speedtest.netgti.com.br:8080/speedtest/upload.php",
+            "lat": "-29.9399",
+            "lon": "-50.9948",
+            "name": "Gravata\u00ed",
+            "country": "Brazil",
+            "cc": "BR",
+            "sponsor": "Netgti Internet e Telecomunica\u00e7\u00f5es Ltda",
+            "id": "67555",
+            "host": "node1.speedtest.netgti.com.br:8080",
+            "d": 6.454237138502704,
+            "latency": 21.02
+        }
+    }
+]
